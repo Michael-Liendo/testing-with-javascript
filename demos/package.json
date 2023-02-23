@@ -1,0 +1,16 @@
+{
+  "name": "demos",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Michael Liendo <contact@michaelliendo.com> (https://michaelliendo.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
